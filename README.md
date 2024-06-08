@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFfkk2Zl1MY4w/profile-displaybackgroundimage-shrink_350_1400/0/1685442193231?e=1723075200&v=beta&t=R8GfNHn003cloLc9yBHTzVPpj1kKC2sHwqZXTA4HgJw)]()
 
 <h1 align="center">Hi 👋, I'm George Farg</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full-stack developer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3360180/screenshots/7039753/media/081cf324db6c0684409327a2c0e74c8a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgefarg&label=Profile%20views&color=0e75b6&style=flat" alt="georgefarg" /> </p>
