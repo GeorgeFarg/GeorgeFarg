@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-stack Developer** from Egypt with great ambition to create my own hustle. I enjoy working on challenging projects and learning new technologies.
+I'm a **Full-stack Developer** from Egypt with great ambition. I enjoy working on challenging projects and learning new technologies.
 
 - 🌱 I’m currently learning **Three.js and Rust**
 - 💬 Ask me about **MERN, Next.js, Nest.js**
